@@ -24,19 +24,6 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/ff1a7763-be87-4e4e-8ba7-de33bf76489a" alt="figure_6_modelo" height="220"/>
 </p>
 
-
-- **Evaluación del potencial de tsunamis locales con base en análisis sismo-tectónico en el Caribe de Costa Rica**  
-  *Revista Geológica de América Central, 2021* – N. Zamora, M. Arroyo-Solórzano, H. Porras, S. Chacón, F. Rivera, A. Murillo  
-  [📄 PDF](0256-7024-rgac-65-281.pdf)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a1f3252b-f751-4ff5-bdb6-efcdfd9c8613" alt="0256-7024-rgac-65-281-gf5" height="220"/>
-  <img src="https://github.com/user-attachments/assets/667ff21b-e43b-4dca-a0a0-1964b62cf5a3" alt="0256-7024-rgac-65-281-gf2" height="220"/>
-  <img src="https://github.com/user-attachments/assets/1eeed888-1342-456c-bcc9-1e0095fb5bae" alt="0256-7024-rgac-65-281-gf1" height="220"/>
-</p>
-
-
-
 - **Tsunami de las Islas Kermadec del 4 de marzo del 2021: registros, modelado numérico y atención del evento para Costa Rica**  
   *Revista Ciencias Marinas y Costeras, 2022* – H. Porras-Espinoza, S. Chacón-Barrantes, A. Murillo-Gutierrez, et al.  
   [📄 PDF](633774498002.pdf)
@@ -47,9 +34,15 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/2f11f4a8-05f2-4564-a198-cceb68c32329" alt="Icoco2021" height="180"/>
 </p>
 
-- **Análisis de sismos interplaca en el Pacífico Central de Costa Rica: los sismos de Esterillos (2017) y Herradura (2020)**  
-  *Boletín de la Sociedad Geológica Mexicana, 2021* – R. Quintero-Quintero, D. Campos-Duran, H. Porras-Espinoza, et al.  
-  [📄 PDF](1405-3322-bsgm-73-02-00014.pdf)
+- **Evaluación del potencial de tsunamis locales con base en análisis sismo-tectónico en el Caribe de Costa Rica**  
+  *Revista Geológica de América Central, 2021* – N. Zamora, M. Arroyo-Solórzano, H. Porras, S. Chacón, F. Rivera, A. Murillo  
+  [📄 PDF](0256-7024-rgac-65-281.pdf)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1f3252b-f751-4ff5-bdb6-efcdfd9c8613" alt="0256-7024-rgac-65-281-gf5" height="220"/>
+  <img src="https://github.com/user-attachments/assets/667ff21b-e43b-4dca-a0a0-1964b62cf5a3" alt="0256-7024-rgac-65-281-gf2" height="220"/>
+  <img src="https://github.com/user-attachments/assets/1eeed888-1342-456c-bcc9-1e0095fb5bae" alt="0256-7024-rgac-65-281-gf1" height="220"/>
+</p>
 
 ---
 
@@ -102,6 +95,16 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/e98dec9f-79e7-4514-8f86-e2f5e8de35aa" alt="1-s2 0-S0040195116304073-gr11" height="190"/>
 </p>
 
+- **Análisis de sismos interplaca en el Pacífico Central de Costa Rica: los sismos de Esterillos (2017) y Herradura (2020)**  
+  *Boletín de la Sociedad Geológica Mexicana, 2021* – R. Quintero-Quintero, D. Campos-Duran, H. Porras-Espinoza, et al.  
+  [📄 PDF](1405-3322-bsgm-73-02-00014.pdf)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/543770df-619f-4713-8d09-a82b06f25939" alt="Figura 7A Coulomb Esterillos" height="250"/>
+  <img src="https://github.com/user-attachments/assets/c10d4a5b-8959-4028-90dd-ee17aa41c619" alt="BSGM Fig1" height="250"/>
+  <img src="https://github.com/user-attachments/assets/e172ff13-5f9a-465e-84a8-67542027940e" alt="BSGM Fig4" height="250"/>
+</p>
+
 - **Evolution of shallow and deep structures along the Maipo–Tunuyán transect (33°40′ S): from the Pacific coast to the Andean foreland**  
   *Geological Society of London, Special Publications, 2015* – L. Giambiagi, A. Tassara, J. Mescua, H. Porras, et al.  
   [📄 PDF](giambiagi2014.pdf)
@@ -116,19 +119,45 @@ For a complete and updated list of publications and citations:
   *Revista Geológica de América Central, 2012* – H. Porras, M. Cascante, R.G. Pérez, G.E. Alvarado  
   [📄 PDF](Porras%20et%20al%202012.pdf)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/622a1576-e1f8-4224-8d26-f427474d6043" alt="a03i11" height="220"/>
+  <img src="https://github.com/user-attachments/assets/bc0ad882-70e4-40ba-8bbf-857a3c122aeb" alt="a03i9" height="220"/>
+  <img src="https://github.com/user-attachments/assets/70093ace-d0fc-4fa8-a44a-0858a7fda72a" alt="a03i1" height="220"/>
+</p>
+
 - **Interpretación de los sismos pequeños y moderados bajo el volcán Irazú**  
   *Revista Geográfica de América Central, 2017* – M. Cascante-Matamoros, H. Porras-Espinoza  
   [📄 PDF](Cascante-Porras%202017.pdf)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/740546e6-5a78-4e84-b9c6-76b178b7a946" alt="Figura 3 Irazu" height="220"/>
+  <img src="https://github.com/user-attachments/assets/365c3284-6888-46d9-9e30-44f37e03f0e0" alt="Figura 4 Irazu" height="220"/>
+  <img src="https://github.com/user-attachments/assets/448e287e-d4f2-4724-873b-e911045dfb0c" alt="Figura 3 gf3" height="220"/>
+</p>
 
 - **Sismo de Capellades 01 diciembre 2016, Cartago, Costa Rica**  
   *Revista Geográfica de América Central, 2018* – R. Quintero-Quintero, H. Porras-Hernández  
   [📄 PDF](Quintero-Porras%202018.pdf)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df9faf7b-6b14-435f-9990-821e95bc746e" alt="Imagen7349" height="200"/>
+  <img src="https://github.com/user-attachments/assets/32645643-773a-4068-a848-becd1c8c7fbc" alt="Imagen7366" height="200"/>
+  <img src="https://github.com/user-attachments/assets/a37e14f2-6c2e-4996-9e0a-9ed50a3fd8ac" alt="Figura 3 art6" height="200"/>
+</p>
+
+
 - **Recurrencia de sismos en el Valle Central de Costa Rica**  
   *Revista Geográfica de América Central, 2018* – R. Quintero-Quintero, H. Porras-Espinoza  
   [📄 PDF](Quintero-Porras2018b.pdf)
 
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/09ebf350-91f9-47da-a4a9-09d5a5c16383" alt="Figura 1 OVSICORI" height="250"/>
+  <img src="https://github.com/user-attachments/assets/0bf51215-a468-49d9-98b4-f67429eddf54" alt="Figura 1 Artículo 3" height="250"/>
+</p>
+
+
 ---
+
 
 ### 📄 Additional (no PDF in repo yet)
 
