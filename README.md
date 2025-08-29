@@ -115,16 +115,6 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/678e8b50-aab9-40ef-93da-034ecdfceaac" alt="sp399-709f04" height="240"/>
 </p>
 
-- **Volcano-estratigrafía y tectónica del Valle Central Occidental y las estribaciones de los Montes del Aguacate, Costa Rica**  
-  *Revista Geológica de América Central, 2012* – H. Porras, M. Cascante, R.G. Pérez, G.E. Alvarado  
-  [📄 PDF](Porras%20et%20al%202012.pdf)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/622a1576-e1f8-4224-8d26-f427474d6043" alt="a03i11" height="220"/>
-  <img src="https://github.com/user-attachments/assets/bc0ad882-70e4-40ba-8bbf-857a3c122aeb" alt="a03i9" height="220"/>
-  <img src="https://github.com/user-attachments/assets/70093ace-d0fc-4fa8-a44a-0858a7fda72a" alt="a03i1" height="220"/>
-</p>
-
 - **Interpretación de los sismos pequeños y moderados bajo el volcán Irazú**  
   *Revista Geográfica de América Central, 2017* – M. Cascante-Matamoros, H. Porras-Espinoza  
   [📄 PDF](Cascante-Porras%202017.pdf)
@@ -155,6 +145,15 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/0bf51215-a468-49d9-98b4-f67429eddf54" alt="Figura 1 Artículo 3" height="250"/>
 </p>
 
+- **Volcano-estratigrafía y tectónica del Valle Central Occidental y las estribaciones de los Montes del Aguacate, Costa Rica**  
+  *Revista Geológica de América Central, 2012* – H. Porras, M. Cascante, R.G. Pérez, G.E. Alvarado  
+  [📄 PDF](Porras%20et%20al%202012.pdf)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/622a1576-e1f8-4224-8d26-f427474d6043" alt="a03i11" height="220"/>
+  <img src="https://github.com/user-attachments/assets/bc0ad882-70e4-40ba-8bbf-857a3c122aeb" alt="a03i9" height="220"/>
+  <img src="https://github.com/user-attachments/assets/70093ace-d0fc-4fa8-a44a-0858a7fda72a" alt="a03i1" height="220"/>
+</p>
 
 ---
 
