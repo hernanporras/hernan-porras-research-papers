@@ -35,7 +35,6 @@ For a complete and updated list of publications and citations:
 
 - **High-Resolution Tsunami Simulations including Land Use-Dependent Variable Friction Along Puerto Rico's Coast**  
   *EGU General Assembly Abstracts, 2024* – C. Sánchez-Linares, J. Macías Sánchez, H. Porras, V. Huérfano  
-
 ---
 
 # 🏔️ Geology, Tectonics & Volcanology
@@ -43,6 +42,12 @@ For a complete and updated list of publications and citations:
 - **Changing tectonic regimes in the central Costa Rica forearc between the Paleogene and the present: Insights from structural analysis and focal mechanisms**  
   *Journal of Geodynamics, 2021* – H. Porras, J. Mescua, P. Durán, M. Cascante, L. Giambiagi, C. Muller  
   [📄 PDF](1-s2.0-S0264370720301563-Porras_etal_2021.pdf)
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/673926f7-d3dc-4adb-95f2-3f70eb02d9e6" alt="Figure 1" height="200"/>
+  <img src="https://github.com/user-attachments/assets/6038571a-ba13-4b8b-a27d-4fdca280009a" alt="Figure 2" height="200"/>
+  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="200"/>
+</p>
 
 - **La depresión tectónica de Nicaragua en Costa Rica: estructura interna, estilo estructural, edad, extensión y actividad de la cuenca de San Carlos**  
   *Revista Geológica de América Central, 2021* – H. Porras, G.E. Alvarado, M. Arroyo-Solórzano, P. Durán, E. Echandi  
