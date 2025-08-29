@@ -59,9 +59,9 @@ For a complete and updated list of publications and citations:
   [📄 PDF](1-s2.0-S0264370720301563-Porras_etal_2021.pdf)
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/673926f7-d3dc-4adb-95f2-3f70eb02d9e6" alt="Figure 1" height="240"/>
-  <img src="https://github.com/user-attachments/assets/6038571a-ba13-4b8b-a27d-4fdca280009a" alt="Figure 2" height="240"/>
-  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="240"/>
+  <img src="https://github.com/user-attachments/assets/673926f7-d3dc-4adb-95f2-3f70eb02d9e6" alt="Figure 1" height="280"/>
+  <img src="https://github.com/user-attachments/assets/6038571a-ba13-4b8b-a27d-4fdca280009a" alt="Figure 2" height="280"/>
+  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="280"/>
 </p>
 
 - **La depresión tectónica de Nicaragua en Costa Rica: estructura interna, estilo estructural, edad, extensión y actividad de la cuenca de San Carlos**  
