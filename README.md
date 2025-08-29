@@ -59,9 +59,9 @@ For a complete and updated list of publications and citations:
   [📄 PDF](1-s2.0-S0264370720301563-Porras_etal_2021.pdf)
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/673926f7-d3dc-4adb-95f2-3f70eb02d9e6" alt="Figure 1" height="280"/>
-  <img src="https://github.com/user-attachments/assets/6038571a-ba13-4b8b-a27d-4fdca280009a" alt="Figure 2" height="280"/>
-  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="280"/>
+  <img src="https://github.com/user-attachments/assets/673926f7-d3dc-4adb-95f2-3f70eb02d9e6" alt="Figure 1" height="260"/>
+  <img src="https://github.com/user-attachments/assets/6038571a-ba13-4b8b-a27d-4fdca280009a" alt="Figure 2" height="260"/>
+  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="260"/>
 </p>
 
 - **La depresión tectónica de Nicaragua en Costa Rica: estructura interna, estilo estructural, edad, extensión y actividad de la cuenca de San Carlos**  
@@ -92,7 +92,7 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/7c535df7-e630-4a0f-84e2-2b5e2ef4e8ac" alt="1-s2 0-S0040195116304073-gr7" height="190"/>
   <img src="https://github.com/user-attachments/assets/d677dbad-c0ce-4e60-bc1d-8c81750d8e04" alt="1-s2 0-S0040195116304073-gr4" height="190"/>
   <img src="https://github.com/user-attachments/assets/c396b608-caa9-4dc6-80df-76b9a9ded622" alt="1-s2 0-S0040195116304073-gr2" height="190"/>
-  <img src="https://github.com/user-attachments/assets/e98dec9f-79e7-4514-8f86-e2f5e8de35aa" alt="1-s2 0-S0040195116304073-gr11" height="190"/>
+  <img src="https://github.com/user-attachments/assets/e98dec9f-79e7-4514-8f86-e2f5e8de35aa" alt="1-s2 0-S0040195116304073-gr11" height="150"/>
 </p>
 
 - **Análisis de sismos interplaca en el Pacífico Central de Costa Rica: los sismos de Esterillos (2017) y Herradura (2020)**  
@@ -120,9 +120,9 @@ For a complete and updated list of publications and citations:
   [📄 PDF](Cascante-Porras%202017.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/740546e6-5a78-4e84-b9c6-76b178b7a946" alt="Figura 3 Irazu" height="220"/>
-  <img src="https://github.com/user-attachments/assets/365c3284-6888-46d9-9e30-44f37e03f0e0" alt="Figura 4 Irazu" height="220"/>
-  <img src="https://github.com/user-attachments/assets/448e287e-d4f2-4724-873b-e911045dfb0c" alt="Figura 3 gf3" height="220"/>
+  <img src="https://github.com/user-attachments/assets/740546e6-5a78-4e84-b9c6-76b178b7a946" alt="Figura 3 Irazu" height="200"/>
+  <img src="https://github.com/user-attachments/assets/365c3284-6888-46d9-9e30-44f37e03f0e0" alt="Figura 4 Irazu" height="200"/>
+  <img src="https://github.com/user-attachments/assets/448e287e-d4f2-4724-873b-e911045dfb0c" alt="Figura 3 gf3" height="200"/>
 </p>
 
 - **Sismo de Capellades 01 diciembre 2016, Cartago, Costa Rica**  
@@ -130,9 +130,9 @@ For a complete and updated list of publications and citations:
   [📄 PDF](Quintero-Porras%202018.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/df9faf7b-6b14-435f-9990-821e95bc746e" alt="Imagen7349" height="200"/>
-  <img src="https://github.com/user-attachments/assets/32645643-773a-4068-a848-becd1c8c7fbc" alt="Imagen7366" height="200"/>
-  <img src="https://github.com/user-attachments/assets/a37e14f2-6c2e-4996-9e0a-9ed50a3fd8ac" alt="Figura 3 art6" height="200"/>
+  <img src="https://github.com/user-attachments/assets/df9faf7b-6b14-435f-9990-821e95bc746e" alt="Imagen7349" height="180"/>
+  <img src="https://github.com/user-attachments/assets/32645643-773a-4068-a848-becd1c8c7fbc" alt="Imagen7366" height="180"/>
+  <img src="https://github.com/user-attachments/assets/a37e14f2-6c2e-4996-9e0a-9ed50a3fd8ac" alt="Figura 3 art6" height="180"/>
 </p>
 
 
@@ -141,8 +141,8 @@ For a complete and updated list of publications and citations:
   [📄 PDF](Quintero-Porras2018b.pdf)
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/09ebf350-91f9-47da-a4a9-09d5a5c16383" alt="Figura 1 OVSICORI" height="250"/>
-  <img src="https://github.com/user-attachments/assets/0bf51215-a468-49d9-98b4-f67429eddf54" alt="Figura 1 Artículo 3" height="250"/>
+  <img src="https://github.com/user-attachments/assets/09ebf350-91f9-47da-a4a9-09d5a5c16383" alt="Figura 1 OVSICORI" height="200"/>
+  <img src="https://github.com/user-attachments/assets/0bf51215-a468-49d9-98b4-f67429eddf54" alt="Figura 1 Artículo 3" height="200"/>
 </p>
 
 - **Volcano-estratigrafía y tectónica del Valle Central Occidental y las estribaciones de los Montes del Aguacate, Costa Rica**  
