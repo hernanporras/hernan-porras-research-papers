@@ -61,7 +61,7 @@ For a complete and updated list of publications and citations:
   <p align="center">
   <img src="https://github.com/user-attachments/assets/673926f7-d3dc-4adb-95f2-3f70eb02d9e6" alt="Figure 1" height="260"/>
   <img src="https://github.com/user-attachments/assets/6038571a-ba13-4b8b-a27d-4fdca280009a" alt="Figure 2" height="260"/>
-  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="260"/>
+  <img src="https://github.com/user-attachments/assets/c8830234-346c-4a3b-9fa8-af411652db21" alt="Figure 8" height="220"/>
 </p>
 
 - **La depresión tectónica de Nicaragua en Costa Rica: estructura interna, estilo estructural, edad, extensión y actividad de la cuenca de San Carlos**  
@@ -70,7 +70,7 @@ For a complete and updated list of publications and citations:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/32aa170c-1976-4047-83dc-61c3a1ae6266" alt="Fig5_B" height="180"/>
-  <img src="https://github.com/user-attachments/assets/9517de7e-29fe-4ab2-890f-f7ecbb848cc9" alt="Figura 3" height="180"/>
+  <img src="https://github.com/user-attachments/assets/9517de7e-29fe-4ab2-890f-f7ecbb848cc9" alt="Figura 3" height="150"/>
   <img src="https://github.com/user-attachments/assets/270f4690-87c5-42be-818e-832219a6594d" alt="Figura 9" height="180"/>
   <img src="https://github.com/user-attachments/assets/1f65b0a7-9d70-4255-8e46-dfa7e78d4597" alt="Figura 1" height="150"/>
 </p>
@@ -89,7 +89,7 @@ For a complete and updated list of publications and citations:
   [📄 PDF](1-s2.0-S0040195116304073-main.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c535df7-e630-4a0f-84e2-2b5e2ef4e8ac" alt="1-s2 0-S0040195116304073-gr7" height="190"/>
+  <img src="https://github.com/user-attachments/assets/7c535df7-e630-4a0f-84e2-2b5e2ef4e8ac" alt="1-s2 0-S0040195116304073-gr7" height="150"/>
   <img src="https://github.com/user-attachments/assets/d677dbad-c0ce-4e60-bc1d-8c81750d8e04" alt="1-s2 0-S0040195116304073-gr4" height="190"/>
   <img src="https://github.com/user-attachments/assets/c396b608-caa9-4dc6-80df-76b9a9ded622" alt="1-s2 0-S0040195116304073-gr2" height="190"/>
   <img src="https://github.com/user-attachments/assets/e98dec9f-79e7-4514-8f86-e2f5e8de35aa" alt="1-s2 0-S0040195116304073-gr11" height="150"/>
