@@ -79,7 +79,7 @@ For a complete and updated list of publications and citations:
   <img src="https://github.com/user-attachments/assets/32aa170c-1976-4047-83dc-61c3a1ae6266" alt="Fig5_B" height="180"/>
   <img src="https://github.com/user-attachments/assets/9517de7e-29fe-4ab2-890f-f7ecbb848cc9" alt="Figura 3" height="180"/>
   <img src="https://github.com/user-attachments/assets/270f4690-87c5-42be-818e-832219a6594d" alt="Figura 9" height="180"/>
-  <img src="https://github.com/user-attachments/assets/1f65b0a7-9d70-4255-8e46-dfa7e78d4597" alt="Figura 1" height="180"/>
+  <img src="https://github.com/user-attachments/assets/1f65b0a7-9d70-4255-8e46-dfa7e78d4597" alt="Figura 1" height="150"/>
 </p>
 
 - **Middle to Late Miocene contractional deformation in Costa Rica triggered by plate geodynamics**  
