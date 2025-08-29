@@ -100,9 +100,9 @@ For a complete and updated list of publications and citations:
   [📄 PDF](1405-3322-bsgm-73-02-00014.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/543770df-619f-4713-8d09-a82b06f25939" alt="Figura 7A Coulomb Esterillos" height="250"/>
-  <img src="https://github.com/user-attachments/assets/c10d4a5b-8959-4028-90dd-ee17aa41c619" alt="BSGM Fig1" height="250"/>
-  <img src="https://github.com/user-attachments/assets/e172ff13-5f9a-465e-84a8-67542027940e" alt="BSGM Fig4" height="250"/>
+  <img src="https://github.com/user-attachments/assets/543770df-619f-4713-8d09-a82b06f25939" alt="Figura 7A Coulomb Esterillos" height="200"/>
+  <img src="https://github.com/user-attachments/assets/c10d4a5b-8959-4028-90dd-ee17aa41c619" alt="BSGM Fig1" height="200"/>
+  <img src="https://github.com/user-attachments/assets/e172ff13-5f9a-465e-84a8-67542027940e" alt="BSGM Fig4" height="200"/>
 </p>
 
 - **Evolution of shallow and deep structures along the Maipo–Tunuyán transect (33°40′ S): from the Pacific coast to the Andean foreland**  
