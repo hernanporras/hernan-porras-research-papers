@@ -42,9 +42,9 @@ For a complete and updated list of publications and citations:
   [📄 PDF](633774498002.pdf)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4c17b29-2c2e-4bf5-afe5-4d11a3817355" alt="tsunamiOP" height="220"/>
-  <img src="https://github.com/user-attachments/assets/a5dbe9cd-18e6-4286-b81d-2454e5f2a321" alt="Quepos2021" height="220"/>
-  <img src="https://github.com/user-attachments/assets/2f11f4a8-05f2-4564-a198-cceb68c32329" alt="Icoco2021" height="220"/>
+  <img src="https://github.com/user-attachments/assets/f4c17b29-2c2e-4bf5-afe5-4d11a3817355" alt="tsunamiOP" height="180"/>
+  <img src="https://github.com/user-attachments/assets/a5dbe9cd-18e6-4286-b81d-2454e5f2a321" alt="Quepos2021" height="180"/>
+  <img src="https://github.com/user-attachments/assets/2f11f4a8-05f2-4564-a198-cceb68c32329" alt="Icoco2021" height="180"/>
 </p>
 
 - **Análisis de sismos interplaca en el Pacífico Central de Costa Rica: los sismos de Esterillos (2017) y Herradura (2020)**  
